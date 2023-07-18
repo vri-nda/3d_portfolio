@@ -141,8 +141,7 @@ import {
       points: [
         "(B.Tech) in Computer Science and Engineering (CSE) from VIT Bhopal.",
         "First Year: CGPA of 9.2, placing in the top 2% of the 2021 Batch.",
-        "Second Year: CGPA of 9.07",
-        "Third Year (Expected graduation date: [August, 2025]).",
+        "Second Year (Expected graduation date: [August, 2025]).",
       ],
     },
     // {
@@ -235,7 +234,7 @@ import {
         },
       ],
       image: crypto,
-      source_code_link: "https://github.com/SakkyOP/crypto-analysis",
+      source_code_link: "https://github.com/",
       liveweb_link:"https://crypto-analysis-y1dc.vercel.app/",
     },
     {
@@ -257,8 +256,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/ZODIAC3K/ARchaeology",
-      liveweb_link:"https://drive.google.com/drive/folders/1ZWahobYtBYf9h_NAgOMpdLt26a4DWi3A?usp=sharing",
+      source_code_link: "https://github.com/",
     },
     {
       name: "Trip Guide",
@@ -279,8 +277,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/vri-nda/trip-maker",
-      liveweb_link:"https://vri-nda.github.io/trip-maker/",
+      source_code_link: "https://github.com/",
     },
   ];
   
