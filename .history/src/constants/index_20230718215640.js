@@ -282,28 +282,28 @@ import {
       source_code_link: "https://github.com/vri-nda/trip-maker",
       liveweb_link:"https://vri-nda.github.io/trip-maker/",
     },
-    // {
-    //   name: "HarmonyTunes",
-    //   description:
-    //     "HarmonyTunes, my inaugural music player website project, provides users with a feature-rich platform that enhances their music listening experience. By seamlessly integrating with users' existing music libraries, offering advanced playback functionality, and providing an intuitive user interface, HarmonyTunes aims to redefine the way users interact with their downloaded songs. ",
-    //   tags: [
-    //     {
-    //       name: "HTML",
-    //       color: "blue-text-gradient",
-    //     },
-    //     {
-    //       name: "javascript",
-    //       color: "green-text-gradient",
-    //     },
-    //     {
-    //       name: "css",
-    //       color: "pink-text-gradient",
-    //     },
-    //   ],
-    //   image: tripguide,
-    //   source_code_link: "https://github.com/vri-nda/music-player.github.io",
-    //   liveweb_link:"https://vri-nda.github.io/trip-maker/",
-    // },
+    {
+      name: "HarmonyTunes",
+      description:
+        "HarmonyTunes, my inaugural music player website project, provides users with a feature-rich platform that enhances their music listening experience. By seamlessly integrating with users' existing music libraries, offering advanced playback functionality, and providing an intuitive user interface, HarmonyTunes aims to redefine the way users interact with their downloaded songs. ",
+      tags: [
+        {
+          name: "HTML",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "javascript",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/vri-nda/music-player.github.io",
+      liveweb_link:"https://vri-nda.github.io/music-player.github.io/",
+    },
   ];
   
   export { services, technologies, experiences, testimonials, projects };

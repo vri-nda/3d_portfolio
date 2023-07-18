@@ -299,11 +299,11 @@ import {
     //       name: "css",
     //       color: "pink-text-gradient",
     //     },
-    //   ],
-    //   image: tripguide,
-    //   source_code_link: "https://github.com/vri-nda/music-player.github.io",
-    //   liveweb_link:"https://vri-nda.github.io/trip-maker/",
-    // },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/vri-nda/music-player.github.io",
+      liveweb_link:"https://vri-nda.github.io/trip-maker/",
+    },
   ];
   
   export { services, technologies, experiences, testimonials, projects };
