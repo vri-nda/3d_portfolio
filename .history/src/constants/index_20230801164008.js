@@ -277,21 +277,43 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: docker,
       source_code_link: "https://github.com/ZODIAC3K/ARchaeology",
       liveweb_link:"https://drive.google.com/drive/folders/1ZWahobYtBYf9h_NAgOMpdLt26a4DWi3A?usp=sharing",
     },
+    {
+      name: "Trip Guide",
+      description:
+        "A comprehensive travel booking platform (frontend) that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "supabase",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/vri-nda/trip-maker",
+      liveweb_link:"https://vri-nda.github.io/trip-maker/",
+    },
     // {
-    //   name: "Trip Guide",
+    //   name: "HarmonyTunes",
     //   description:
-    //     "A comprehensive travel booking platform (frontend) that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+    //     "HarmonyTunes, my inaugural music player website project, provides users with a feature-rich platform that enhances their music listening experience. By seamlessly integrating with users' existing music libraries, offering advanced playback functionality, and providing an intuitive user interface, HarmonyTunes aims to redefine the way users interact with their downloaded songs. ",
     //   tags: [
     //     {
-    //       name: "nextjs",
+    //       name: "HTML",
     //       color: "blue-text-gradient",
     //     },
     //     {
-    //       name: "supabase",
+    //       name: "javascript",
     //       color: "green-text-gradient",
     //     },
     //     {
@@ -300,31 +322,9 @@ import {
     //     },
     //   ],
     //   image: tripguide,
-    //   source_code_link: "https://github.com/vri-nda/trip-maker",
+    //   source_code_link: "https://github.com/vri-nda/music-player.github.io",
     //   liveweb_link:"https://vri-nda.github.io/trip-maker/",
     // },
-    {
-      name: "HarmonyTunes",
-      description:
-        "HarmonyTunes, my inaugural music player website project, provides users with a feature-rich platform that enhances their music listening experience. By seamlessly integrating with users' existing music libraries, offering advanced playback functionality, and providing an intuitive user interface, HarmonyTunes aims to redefine the way users interact with their downloaded songs. ",
-      tags: [
-        {
-          name: "HTML",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "javascript",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: carrent,
-      source_code_link: "https://github.com/vri-nda/music-player.github.io",
-      liveweb_link:"https://vri-nda.github.io/trip-maker/",
-    },
   ];
   
   export { services, technologies, experiences, testimonials, projects };
