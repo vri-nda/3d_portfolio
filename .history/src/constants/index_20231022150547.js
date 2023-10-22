@@ -176,6 +176,15 @@ import {
   const testimonials = [
     {
       testimonial:
+        "https://i.ibb.co/FxpFws7/Screenshot-2023-10-22-at-12-29-27-AM.png",
+      name: "Advanced Software Engineering Job Simulation",
+      // designation: "CFO",
+      company: "Walmart",
+      image: "https://i.ibb.co/FxpFws7/Screenshot-2023-10-22-at-12-29-27-AM.png",
+      itslink:"https://drive.google.com/file/d/1NZ3oMCxNINelFW83NN-LdZmyeV1zpveA/view?usp=sharing",
+    },
+    {
+      testimonial:
         "https://i.ibb.co/HnyrbBp/Screenshot-2023-03-14-at-12-39-57-PM.png",
       name: "Web Development",
       // designation: "CFO",
@@ -194,15 +203,6 @@ import {
     },
     {
       testimonial:
-        "https://i.ibb.co/Hp5kfqb/Screenshot-2023-03-14-at-1-17-38-PM.png",
-      name: "Virtusa Hackathon",
-      // designation: "CFO",
-      company: "Virtusa",
-      image: "https://i.ibb.co/Hp5kfqb/Screenshot-2023-03-14-at-1-17-38-PM.png",
-      itslink:"https://drive.google.com/file/d/1aEQHt4TVlw4IsWxbVPs8UtMe_Bpv7nbj/view?usp=sharing",
-    },
-    {
-      testimonial:
         "https://i.ibb.co/wJV8p0x/Screenshot-2023-03-14-at-1-21-26-PM.png",
       name: "Intro To SQL",
       // designation: "CFO",
@@ -210,6 +210,27 @@ import {
       image: "https://i.ibb.co/wJV8p0x/Screenshot-2023-03-14-at-1-21-26-PM.png",
       itslink:"https://drive.google.com/file/d/1T5zdHueUJJXgAFQenyz9lJ2-xzKRHtCv/view?usp=sharing",
     },
+   
+    {
+      testimonial:
+      "https://i.ibb.co/N2RVJPv/Screenshot-2023-08-01-at-4-17-30-PM.png",
+      name: "Google Cloud Career Practitioner Campaign",
+      // designation: "CFO",
+      company: "Google",
+      image: "https://i.ibb.co/N2RVJPv/Screenshot-2023-08-01-at-4-17-30-PM.png",
+      itslink:"https://drive.google.com/file/d/1KZYW0sjfVXGHNapHgTVLo6w5U7SLZsvy/view?usp=sharing",
+    },
+   
+    {
+      testimonial:
+      "https://i.ibb.co/ZMSw2Rv/Screenshot-2023-08-01-at-4-17-46-PM.png",
+      name: "Google Crowdsource",
+      // designation: "CFO",
+      company: "Google",
+      image: "https://i.ibb.co/ZMSw2Rv/Screenshot-2023-08-01-at-4-17-46-PM.png",
+      itslink:"https://drive.google.com/file/d/1_sbEoVYj1ep7SGULmJpEypI_5R6kc5DA/view?usp=sharing",
+    },
+    
   ];
   
 
@@ -260,39 +281,17 @@ import {
       source_code_link: "https://github.com/ZODIAC3K/ARchaeology",
       liveweb_link:"https://drive.google.com/drive/folders/1ZWahobYtBYf9h_NAgOMpdLt26a4DWi3A?usp=sharing",
     },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform (frontend) that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://github.com/vri-nda/trip-maker",
-      liveweb_link:"https://vri-nda.github.io/trip-maker/",
-    },
     // {
-    //   name: "HarmonyTunes",
+    //   name: "Trip Guide",
     //   description:
-    //     "HarmonyTunes, my inaugural music player website project, provides users with a feature-rich platform that enhances their music listening experience. By seamlessly integrating with users' existing music libraries, offering advanced playback functionality, and providing an intuitive user interface, HarmonyTunes aims to redefine the way users interact with their downloaded songs. ",
+    //     "A comprehensive travel booking platform (frontend) that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     //   tags: [
     //     {
-    //       name: "HTML",
+    //       name: "nextjs",
     //       color: "blue-text-gradient",
     //     },
     //     {
-    //       name: "javascript",
+    //       name: "supabase",
     //       color: "green-text-gradient",
     //     },
     //     {
@@ -301,9 +300,31 @@ import {
     //     },
     //   ],
     //   image: tripguide,
-    //   source_code_link: "https://github.com/vri-nda/music-player.github.io",
+    //   source_code_link: "https://github.com/vri-nda/trip-maker",
     //   liveweb_link:"https://vri-nda.github.io/trip-maker/",
     // },
+    {
+      name: "HarmonyTunes",
+      description:
+        "HarmonyTunes, my inaugural music player website project, provides users with a feature-rich platform that enhances their music listening experience. By seamlessly integrating with users' existing music libraries, offering advanced playback functionality, and providing an intuitive user interface, HarmonyTunes aims to redefine the way users interact with their downloaded songs. ",
+      tags: [
+        {
+          name: "HTML",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "javascript",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://github.com/vri-nda/music-player.github.io",
+      liveweb_link:"https://vri-nda.github.io/trip-maker/",
+    },
   ];
   
   export { services, technologies, experiences, testimonials, projects };

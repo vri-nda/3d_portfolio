@@ -176,6 +176,15 @@ import {
   const testimonials = [
     {
       testimonial:
+        "https://i.ibb.co/FxpFws7/Screenshot-2023-10-22-at-12-29-27-AM.png",
+      name: "Advanced Software Engineering Job Simulation",
+      // designation: "CFO",
+      company: "Walmart",
+      image: "https://i.ibb.co/FxpFws7/Screenshot-2023-10-22-at-12-29-27-AM.png",
+      itslink:"https://drive.google.com/file/d/1NZ3oMCxNINelFW83NN-LdZmyeV1zpveA/view?usp=sharing",
+    },
+    {
+      testimonial:
         "https://i.ibb.co/HnyrbBp/Screenshot-2023-03-14-at-12-39-57-PM.png",
       name: "Web Development",
       // designation: "CFO",
@@ -191,15 +200,6 @@ import {
       company: "Coursera",
       image: "https://i.ibb.co/HCd14bf/Screenshot-2023-03-14-at-12-56-13-PM.png",
       itslink:"https://drive.google.com/file/d/1NzAgOTC2FK10Mor1L_3H_dY0MF5_w1q3/view?usp=sharing",
-    },
-    {
-      testimonial:
-        "https://i.ibb.co/Hp5kfqb/Screenshot-2023-03-14-at-1-17-38-PM.png",
-      name: "Virtusa Hackathon",
-      // designation: "CFO",
-      company: "Virtusa",
-      image: "https://i.ibb.co/Hp5kfqb/Screenshot-2023-03-14-at-1-17-38-PM.png",
-      itslink:"https://drive.google.com/file/d/1aEQHt4TVlw4IsWxbVPs8UtMe_Bpv7nbj/view?usp=sharing",
     },
     {
       testimonial:
