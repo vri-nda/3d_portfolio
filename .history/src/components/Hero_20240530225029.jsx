@@ -9,7 +9,7 @@ const Hero = () => {
         <div className="flex flex-col items-center justify-center mt-5">
           {/* to create small circle and that line in hero section to display name and all */}
           {/* to craete circle */}
-          <div className="w-5 h-5 rounded-full bg-[#7c52ef]" />
+          <div className="w-5 h-5 rounded-full bg-[#432595]" />
           {/* to create line */}
           <div className="w-1 h-40 sm:h-80 violet-gradient" />
         </div>

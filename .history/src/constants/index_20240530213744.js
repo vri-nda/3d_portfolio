@@ -176,38 +176,47 @@ import {
   const testimonials = [
     {
       testimonial:
-        "https://i.ibb.co/FxpFws7/Screenshot-2023-10-22-at-12-29-27-AM.png",
+        "https://i.postimg.cc/RZw1SH10/Screenshot-2024-05-30-at-9-31-12-PM.png",
+      name: "AWS Cloud Practitioner",
+      // designation: "CFO",
+      company: "Amazon Web Service",
+      image: "https://i.postimg.cc/RZw1SH10/Screenshot-2024-05-30-at-9-31-12-PM.png",
+      itslink:"https://drive.google.com/file/d/1VExwaPpGKaete_ABJugj9AsrFgFE2UbO/view?usp=sharing",
+    },
+    {
+      testimonial:
+        "https://i.postimg.cc/2ydWzzL6/Screenshot-2024-05-30-at-9-29-18-PM.png",
       name: "Advanced Software Engineering Job Simulation",
       // designation: "CFO",
       company: "Walmart",
-      image: "https://i.ibb.co/FxpFws7/Screenshot-2023-10-22-at-12-29-27-AM.png",
+      image: "https://i.postimg.cc/2ydWzzL6/Screenshot-2024-05-30-at-9-29-18-PM.png",
       itslink:"https://drive.google.com/file/d/1NZ3oMCxNINelFW83NN-LdZmyeV1zpveA/view?usp=sharing",
     },
     {
       testimonial:
-        "https://i.ibb.co/HnyrbBp/Screenshot-2023-03-14-at-12-39-57-PM.png",
+        "https://i.postimg.cc/Bb3BfY4s/Screenshot-2024-05-30-at-9-30-50-PM.png",
       name: "Web Development",
       // designation: "CFO",
       company: "udemy",
-      image: "https://i.ibb.co/HnyrbBp/Screenshot-2023-03-14-at-12-39-57-PM.png",
+      image: "https://i.postimg.cc/Bb3BfY4s/Screenshot-2024-05-30-at-9-30-50-PM.png",
       itslink:"https://drive.google.com/file/d/1xkiEbVHmafOaZBYSY519pGGhx2IXIMlE/view?usp=sharing",
     },
     {
       testimonial:
-        "https://i.ibb.co/HCd14bf/Screenshot-2023-03-14-at-12-56-13-PM.png",
+        "https://i.postimg.cc/zvqKcyFG/Screenshot-2024-05-30-at-9-32-45-PM.png",
       name: "Computer Networking",
       // designation: "CFO",
       company: "Coursera",
-      image: "https://i.ibb.co/HCd14bf/Screenshot-2023-03-14-at-12-56-13-PM.png",
+      image: "https://i.postimg.cc/zvqKcyFG/Screenshot-2024-05-30-at-9-32-45-PM.png",
       itslink:"https://drive.google.com/file/d/1NzAgOTC2FK10Mor1L_3H_dY0MF5_w1q3/view?usp=sharing",
     },
     {
       testimonial:
-        "https://i.ibb.co/wJV8p0x/Screenshot-2023-03-14-at-1-21-26-PM.png",
+        "https://i.postimg.cc/2yphNjqW/Screenshot-2024-05-30-at-9-36-51-PM.png",
       name: "Intro To SQL",
       // designation: "CFO",
       company: "kaggle",
-      image: "https://i.ibb.co/wJV8p0x/Screenshot-2023-03-14-at-1-21-26-PM.png",
+      image: "https://i.postimg.cc/2yphNjqW/Screenshot-2024-05-30-at-9-36-51-PM.png",
       itslink:"https://drive.google.com/file/d/1T5zdHueUJJXgAFQenyz9lJ2-xzKRHtCv/view?usp=sharing",
     },
    

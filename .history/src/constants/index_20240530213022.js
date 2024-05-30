@@ -176,15 +176,6 @@ import {
   const testimonials = [
     {
       testimonial:
-        "https://i.postimg.cc/RZw1SH10/Screenshot-2024-05-30-at-9-31-12-PM.png",
-      name: "AWS Cloud Practitioner",
-      // designation: "CFO",
-      company: "Amazon Web Service",
-      image: "https://i.postimg.cc/RZw1SH10/Screenshot-2024-05-30-at-9-31-12-PM.png",
-      itslink:"https://drive.google.com/file/d/1VExwaPpGKaete_ABJugj9AsrFgFE2UbO/view?usp=sharing",
-    },
-    {
-      testimonial:
         "https://i.postimg.cc/2ydWzzL6/Screenshot-2024-05-30-at-9-29-18-PM.png",
       name: "Advanced Software Engineering Job Simulation",
       // designation: "CFO",
@@ -194,49 +185,49 @@ import {
     },
     {
       testimonial:
-        "https://i.postimg.cc/Bb3BfY4s/Screenshot-2024-05-30-at-9-30-50-PM.png",
+        "https://i.ibb.co/HnyrbBp/Screenshot-2023-03-14-at-12-39-57-PM.png",
       name: "Web Development",
       // designation: "CFO",
       company: "udemy",
-      image: "https://i.postimg.cc/Bb3BfY4s/Screenshot-2024-05-30-at-9-30-50-PM.png",
+      image: "https://i.ibb.co/HnyrbBp/Screenshot-2023-03-14-at-12-39-57-PM.png",
       itslink:"https://drive.google.com/file/d/1xkiEbVHmafOaZBYSY519pGGhx2IXIMlE/view?usp=sharing",
     },
     {
       testimonial:
-        "https://i.postimg.cc/zvqKcyFG/Screenshot-2024-05-30-at-9-32-45-PM.png",
+        "https://i.ibb.co/HCd14bf/Screenshot-2023-03-14-at-12-56-13-PM.png",
       name: "Computer Networking",
       // designation: "CFO",
       company: "Coursera",
-      image: "https://i.postimg.cc/zvqKcyFG/Screenshot-2024-05-30-at-9-32-45-PM.png",
+      image: "https://i.ibb.co/HCd14bf/Screenshot-2023-03-14-at-12-56-13-PM.png",
       itslink:"https://drive.google.com/file/d/1NzAgOTC2FK10Mor1L_3H_dY0MF5_w1q3/view?usp=sharing",
     },
     {
       testimonial:
-        "https://i.postimg.cc/2yphNjqW/Screenshot-2024-05-30-at-9-36-51-PM.png",
+        "https://i.ibb.co/wJV8p0x/Screenshot-2023-03-14-at-1-21-26-PM.png",
       name: "Intro To SQL",
       // designation: "CFO",
       company: "kaggle",
-      image: "https://i.postimg.cc/2yphNjqW/Screenshot-2024-05-30-at-9-36-51-PM.png",
+      image: "https://i.ibb.co/wJV8p0x/Screenshot-2023-03-14-at-1-21-26-PM.png",
       itslink:"https://drive.google.com/file/d/1T5zdHueUJJXgAFQenyz9lJ2-xzKRHtCv/view?usp=sharing",
     },
    
-    // {
-    //   testimonial:
-    //   "https://i.ibb.co/N2RVJPv/Screenshot-2023-08-01-at-4-17-30-PM.png",
-    //   name: "Google Cloud Career Practitioner Campaign",
-    //   // designation: "CFO",
-    //   company: "Google",
-    //   image: "https://i.ibb.co/N2RVJPv/Screenshot-2023-08-01-at-4-17-30-PM.png",
-    //   itslink:"https://drive.google.com/file/d/1KZYW0sjfVXGHNapHgTVLo6w5U7SLZsvy/view?usp=sharing",
-    // },
+    {
+      testimonial:
+      "https://i.ibb.co/N2RVJPv/Screenshot-2023-08-01-at-4-17-30-PM.png",
+      name: "Google Cloud Career Practitioner Campaign",
+      // designation: "CFO",
+      company: "Google",
+      image: "https://i.ibb.co/N2RVJPv/Screenshot-2023-08-01-at-4-17-30-PM.png",
+      itslink:"https://drive.google.com/file/d/1KZYW0sjfVXGHNapHgTVLo6w5U7SLZsvy/view?usp=sharing",
+    },
    
     {
       testimonial:
-      "https://i.postimg.cc/RCP6Lb12/Screenshot-2024-05-30-at-9-38-19-PM.png",
+      "https://i.ibb.co/ZMSw2Rv/Screenshot-2023-08-01-at-4-17-46-PM.png",
       name: "Google Crowdsource",
       // designation: "CFO",
       company: "Google",
-      image: "https://i.postimg.cc/RCP6Lb12/Screenshot-2024-05-30-at-9-38-19-PM.png",
+      image: "https://i.ibb.co/ZMSw2Rv/Screenshot-2023-08-01-at-4-17-46-PM.png",
       itslink:"https://drive.google.com/file/d/1_sbEoVYj1ep7SGULmJpEypI_5R6kc5DA/view?usp=sharing",
     },
     
@@ -287,7 +278,7 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/vri-nda/AR-project",
+      source_code_link: "https://github.com/ZODIAC3K/ARchaeology",
       liveweb_link:"https://drive.google.com/drive/folders/1ZWahobYtBYf9h_NAgOMpdLt26a4DWi3A?usp=sharing",
     },
     // {

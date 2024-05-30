@@ -290,28 +290,28 @@ import {
       source_code_link: "https://github.com/vri-nda/AR-project",
       liveweb_link:"https://drive.google.com/drive/folders/1ZWahobYtBYf9h_NAgOMpdLt26a4DWi3A?usp=sharing",
     },
-    // {
-    //   name: "Trip Guide",
-    //   description:
-    //     "A comprehensive travel booking platform (frontend) that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    //   tags: [
-    //     {
-    //       name: "nextjs",
-    //       color: "blue-text-gradient",
-    //     },
-    //     {
-    //       name: "supabase",
-    //       color: "green-text-gradient",
-    //     },
-    //     {
-    //       name: "css",
-    //       color: "pink-text-gradient",
-    //     },
-    //   ],
-    //   image: tripguide,
-    //   source_code_link: "https://github.com/vri-nda/trip-maker",
-    //   liveweb_link:"https://vri-nda.github.io/trip-maker/",
-    // },
+    {
+      name: "Trip Guide",
+      description:
+        "A comprehensive travel booking platform (frontend) that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "supabase",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/vri-nda/trip-maker",
+      liveweb_link:"https://vri-nda.github.io/trip-maker/",
+    },
     {
       name: "HarmonyTunes",
       description:

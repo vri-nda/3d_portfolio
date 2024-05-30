@@ -176,11 +176,20 @@ import {
   const testimonials = [
     {
       testimonial:
-        "https://i.ibb.co/HnyrbBp/Screenshot-2023-03-14-at-12-39-57-PM.png",
+        "https://i.postimg.cc/2ydWzzL6/Screenshot-2024-05-30-at-9-29-18-PM.png",
+      name: "Advanced Software Engineering Job Simulation",
+      // designation: "CFO",
+      company: "Walmart",
+      image: "https://i.postimg.cc/2ydWzzL6/Screenshot-2024-05-30-at-9-29-18-PM.png",
+      itslink:"https://drive.google.com/file/d/1NZ3oMCxNINelFW83NN-LdZmyeV1zpveA/view?usp=sharing",
+    },
+    {
+      testimonial:
+        "https://i.postimg.cc/Bb3BfY4s/Screenshot-2024-05-30-at-9-30-50-PM.png",
       name: "Web Development",
       // designation: "CFO",
       company: "udemy",
-      image: "https://i.ibb.co/HnyrbBp/Screenshot-2023-03-14-at-12-39-57-PM.png",
+      image: "https://i.postimg.cc/Bb3BfY4s/Screenshot-2024-05-30-at-9-30-50-PM.png",
       itslink:"https://drive.google.com/file/d/1xkiEbVHmafOaZBYSY519pGGhx2IXIMlE/view?usp=sharing",
     },
     {
@@ -191,15 +200,6 @@ import {
       company: "Coursera",
       image: "https://i.ibb.co/HCd14bf/Screenshot-2023-03-14-at-12-56-13-PM.png",
       itslink:"https://drive.google.com/file/d/1NzAgOTC2FK10Mor1L_3H_dY0MF5_w1q3/view?usp=sharing",
-    },
-    {
-      testimonial:
-        "https://i.ibb.co/Hp5kfqb/Screenshot-2023-03-14-at-1-17-38-PM.png",
-      name: "Advanced Software Engineering Job Simulation",
-      // designation: "CFO",
-      company: "Virtusa",
-      image: "https://i.ibb.co/Hp5kfqb/Screenshot-2023-03-14-at-1-17-38-PM.png",
-      itslink:"https://drive.google.com/file/d/1aEQHt4TVlw4IsWxbVPs8UtMe_Bpv7nbj/view?usp=sharing",
     },
     {
       testimonial:

@@ -15,7 +15,7 @@ const Hero = () => {
         </div>
         {/* to enter text in hero section */}
         <div>
-          <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className="text-[#915eff]">Vrinda</span></h1>
+          <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className="text-[#d7ff5e]">Vrinda</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
           A Third-year Btech CSE student <br className="hidden sm:block"/>at VIT Bhopal University
           </p>
