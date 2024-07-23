@@ -9,15 +9,15 @@ const Hero = () => {
         <div className="flex flex-col items-center justify-center mt-5">
           {/* to create small circle and that line in hero section to display name and all */}
           {/* to craete circle */}
-          <div className="w-5 h-5 rounded-full bg-[#915eff]" />
+          <div className="w-5 h-5 rounded-full bg-[#7c52ef]" />
           {/* to create line */}
           <div className="w-1 h-40 sm:h-80 violet-gradient" />
         </div>
         {/* to enter text in hero section */}
         <div>
-          <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className="text-[#d7ff5e]">Vrinda</span></h1>
+          <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className="text-[#7e5eff]">Vrinda</span></h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-          A Third-year Btech CSE student <br className="hidden sm:block"/>at VIT Bhopal University
+          A Final-year Btech CSE student <br className="hidden sm:block"/>at VIT Bhopal University
           </p>
         </div>
       </div>
